@@ -42,6 +42,5 @@ This **Banking Application** enables users of different roles (**Admin, Banker, 
 
 ### Version Control & Deployment
 - **Git & GitHub** for version control.
-- **Docker (Optional)** for containerization.
 
 
